@@ -7,7 +7,7 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - Browser: Firefox
 - Text Editors: [vi, vim, emacs]
 
-#Todo list
+# Todo list
 - [ ] Font
 - [ ] Shell Enviroment
 - [ ] Color Scheme
