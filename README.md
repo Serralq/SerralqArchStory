@@ -52,6 +52,8 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - Victor Mono
 - MonoLisa
 - Programmingfonts.org
+- Helvetica
+- Futura
 
 ### Font Checklist 
 - [ ] 11pt 14pt 20pt
