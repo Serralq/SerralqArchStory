@@ -26,41 +26,9 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 # Fonts
 
 ### Font Checklist
-- [x] Reading Font
-- [x] One liner Font
-- [ ] Italics Font
+- [x] Reading Font (Avenir Next)
+- [x] One liner Font (Wild Word)
+- [X] Italics Font (Reading Font but Italics)
 - [ ] Bold Font
-- [ ] Coding Font
-
-### Possible Fonts
-- Fira Code
-- JetBrains Mono
-- SF Mono
-- Comic Code
-- Iosevka
-- Cascadia Code
-- Inconsolata
-- Sauce Code Pro
-- Source Code Pro
-- Code New Roman
-- Roboto Mono
-- Hack
-- Ubuntu Mono
-- Monofur
-- Terminess
-- Mononoki
-- Victor Mono
-- MonoLisa
-- Programmingfonts.org
-- Helvetica
-- Futura
-
-### Font Checklist 
-- [ ] 11pt 14pt 20pt
-- [ ] Fun to read
-- [ ] I vs | vs L vs 1
-- [ ] i vs j
-- [ ] O vs 0
-- [ ] Q vs G
-- [ ] Ligatures or not?
-- [ ] How compiling this list?
+- [X] Coding Font (JetBrains Mono)
+  - [ ] Custom keyword definitions --> Italics
