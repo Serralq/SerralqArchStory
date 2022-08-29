@@ -27,9 +27,11 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 
 ### Font Checklist
 - [x] Reading Font (Avenir Next)
-- [x] One liner Font (Wild Word)
+- [x] One-liner Font (Wild Word)
+  - [X] One-liner Bold (Operator Mono)
 - [X] Italics Font (Reading Font but Italics)
 - [X] Bold Font (.Helvetica Neue Interface)
+- [X] Scanning Font (Courier Prime)
 - [X] Coding Font (JetBrains Mono)
   - [ ] Custom keyword definitions --> Italics
   - [ ] Progress bar ligatures
