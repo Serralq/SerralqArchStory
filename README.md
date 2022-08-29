@@ -36,3 +36,4 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
   - [ ] Custom keyword definitions --> Italics
   - [ ] Progress bar ligatures
 - [X] Terminal Font (Scientifica)
+- [ ] M+ and other kanji fonts
