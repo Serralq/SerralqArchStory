@@ -32,3 +32,5 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - [ ] Bold Font
 - [X] Coding Font (JetBrains Mono)
   - [ ] Custom keyword definitions --> Italics
+  - [ ] Progress bar ligatures
+- [ ] Terminal Font
