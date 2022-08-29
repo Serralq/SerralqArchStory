@@ -12,13 +12,17 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - [ ] Shell Enviroment
 - [ ] Color Scheme
 - [ ] Comment style
+- [ ] VSCode Extensions
 
 # Possible Color schemes
 - Monokai Pro
 - Tomorrow Night
-- OneDark.Vim
 - Nord
 - Gruvbox
+- Base 16 Dark
+- Dracula
+- Lucario
+- Railscast
 
 ### Color checklist
 - [ ] Dark Mode Only
@@ -26,6 +30,7 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - [ ] Too similar text
 - [ ] Too different text (ex: neon blue vs watercolor red)
 - [ ] Regular text is deemphasized
+- [ ] Blend into background enough so can lose focus and then only refocus once need to read
 
 Why? >> Easy to read, fun to read, slight sleepy mood
 
