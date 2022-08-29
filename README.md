@@ -20,6 +20,15 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - Nord
 - Gruvbox
 
+### Color checklist
+- [ ] Dark Mode Only
+- [ ] Too bright text
+- [ ] Too similar text
+- [ ] Too different text (ex: neon blue vs watercolor red)
+- [ ] Regular text is deemphasized
+
+Why? >> Easy to read, fun to read, slight sleepy mood
+
 # Fonts
 
 ### Font Checklist
