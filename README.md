@@ -35,6 +35,10 @@ When? << When get a feel & enough use
 - [ ] RSS / News Feed
 - [ ] Awesome Basic Config
   - [ ] Full Config
+  - [ ] Animation
+  - [ ] Transparency, Round, Window Margins
+  - [ ] Widgets
+  - [ ] Look at top of all time in unixporn
 - [ ] List of necessary config
 
 # Color Schemes
