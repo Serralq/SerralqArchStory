@@ -11,7 +11,7 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - [ ] Font
 - [ ] Shell Enviroment
 - [X] Color Scheme
-- [ ] Comment style
+- [X] Comment style
 - [ ] VSCode Extensions
 
 # Color Schemes
