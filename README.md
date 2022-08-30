@@ -18,6 +18,18 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - [X] Terminal Emulator
 - [X] Scripting Language
   - [ ] Fish >> Oh My Fish >> More custom organization
+- [ ] Music Player
+- [ ] Wallpapers
+- [ ] Browser
+- [ ] Polybar?
+- [ ] Launcher
+- [ ] Music Visualizer
+- [ ] Icon Theme
+- [ ] Notification Daemon
+- [ ] RSS / News Feed
+- [ ] Awesome Basic Config
+  - [ ] Full Config
+- [ ] List of necessary config
 
 # Color Schemes
 - Base Nord
