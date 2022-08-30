@@ -10,10 +10,10 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - Scripting Lang: Fish
 
 # Shortcut plan
-Often >> Keybind
-Semi-Often >> Key chord
-Sometimes >> Omnibar
-When? << When get a feel & enough use
+Often >> Keybind  
+Semi-Often >> Key chord  
+Sometimes >> Omnibar  
+When? << When get a feel & enough use  
 
 
 # Todo list
