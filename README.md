@@ -6,6 +6,8 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - WM: Awesome
 - Browser: Firefox
 - Text Editors: [vi, vim, emacs]
+- Terminal Emulator: Alacritty
+- Scripting Lang: Fish
 
 # Todo list
 - [ ] Font
@@ -13,6 +15,9 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - [X] Color Scheme
 - [X] Comment style
 - [ ] VSCode Extensions
+- [X] Terminal Emulator
+- [X] Scripting Language
+  - [ ] Fish >> Oh My Fish >> More custom organization
 
 # Color Schemes
 - Base Nord
