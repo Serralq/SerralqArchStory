@@ -9,9 +9,15 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
 - Terminal Emulator: Alacritty
 - Scripting Lang: Fish
 
+# Shortcut plan
+Often >> Keybind
+Semi-Often >> Key chord
+Sometimes >> Omnibar
+When? << When get a feel & enough use
+
+
 # Todo list
 - [ ] Font
-- [ ] Shell Enviroment
 - [X] Color Scheme
 - [X] Comment style
 - [ ] VSCode Extensions
@@ -59,3 +65,4 @@ Just tracking my Arch config so I can easily wipe my computer if I break it, and
   - [ ] Progress bar ligatures
 - [X] Terminal Font (Scientifica)
 - [ ] M+ and other kanji fonts
+
