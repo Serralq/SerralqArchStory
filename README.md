@@ -40,6 +40,7 @@ When? << When get a feel & enough use
   - [ ] Widgets
   - [ ] Look at top of all time in unixporn
 - [ ] List of necessary config
+- [ ] Note taking system
 
 # Color Schemes
 - Base Nord
@@ -69,4 +70,14 @@ When? << When get a feel & enough use
   - [ ] Progress bar ligatures
 - [X] Terminal Font (Scientifica)
 - [ ] M+ and other kanji fonts
+
+# Notes
+- [ ] Emacs Org Mode
+- [ ] Link based note that only edits files so a two layered approach
+- [ ] Link based with good android apps
+  - Obsidian
+  - Remnote
+  - SuperNotes
+  - Logseq
+  - Hypernotes
 
