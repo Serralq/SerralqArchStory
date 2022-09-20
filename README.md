@@ -76,8 +76,8 @@ When? << When get a feel & enough use
 - [ ] Link based note that only edits files so a two layered approach
 - [ ] Link based with good android apps
   - Obsidian
-  - Remnote
-  - SuperNotes
-  - Logseq
-  - Hypernotes
+- [ ] Obsidian
+  - [ ] Shortcuts
+  - [X] Settings
+  - [ ] Plugins
 
