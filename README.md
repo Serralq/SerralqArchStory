@@ -72,7 +72,8 @@ When? << When get a feel & enough use
 - [ ] M+ and other kanji fonts
 
 # Notes
-- [ ] Emacs Org Mode
+- [X] Emacs Org Mode
+  - Smallest note should be smallest question I could look for
 - [ ] Link based note that only edits files so a two layered approach
 - [ ] Link based with good android apps
   - Obsidian
