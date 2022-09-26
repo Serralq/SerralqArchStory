@@ -81,4 +81,5 @@ When? << When get a feel & enough use
   - [ ] Shortcuts
   - [X] Settings
   - [ ] Plugins
+  - [ ] Custom CSS
 
